@@ -1,0 +1,11 @@
+.addressIdentifier {
+    display: inline-block;
+    font-style: italic;
+}
+.addressWrap {
+    display: inline-block;
+    text-align: center;
+}
+#activePage {
+    font-size: 30px;
+}
